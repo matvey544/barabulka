@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: aqua;
+    border-radius: 15px;
+    color:gold;
+}
+header a {
+    color: gold;
+    text-decoration: none;
+}
+h1 
+ {
+    background-color: aqua;
+    border-radius: 10px;
+    color: gold;
+ }
+ footer {
+    background-color: aqua;
+    border-radius: 15px;
+color: gold;
+
+
+
+ }
+ nav {
+    border: 2px solid brown;
+    border-radius: 15px;
+    padding: 15px;
+ }
+ select {
+    border-radius: 15px;
+    background-color: chartreuse;
+    color: black;
+ }
